@@ -7,5 +7,5 @@ Disallow:
 User-agent: Bingbot
 Disallow:
 
-Sitemap: https://bibliareynavalera.salinastech.com/sitemap.xml
+Sitemap: https://bibliareinavalera.salinastech.com/sitemap.xml
 
